@@ -1,0 +1,6 @@
+{
+  "name": "NextGen mParivahan",
+  "description": "Interactive mobile web prototype of the redesigned Government of India NextGen mParivahan citizen transport services application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
